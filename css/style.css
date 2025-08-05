@@ -21,7 +21,7 @@ body {
   gap: 1px;
   width: 203px;
   height: 55px;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 svg {
@@ -95,7 +95,7 @@ h2 {
   width: 1200px;
   background-color: #fff;
   margin: 27px auto;
-  /* padding: 13px 18px; */
+  padding: 0 18px 0px 0;
   display: flex;
   gap: 60px;
 }
